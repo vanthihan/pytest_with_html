@@ -1,0 +1,7 @@
+assets/
+.pytest_cache/
+myvenv/
+tests/a/__pycache__/*
+tests/b/__pycache__/*
+tests/c/__pycache__/*
+report.html
